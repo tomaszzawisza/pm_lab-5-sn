@@ -1,6 +1,6 @@
 # Parametry projektu
 
-Nazwa: pm-lab-4  
+Nazwa: pm-lab-5  
 Autor: Paweł Dąbal (pawel.dabal@wat.edu.pl)  
 Opis: Projekt bazowy repozytorium na piąte spotkanie laboratoryjne z przedmiotu _Techniki mikroprocesorowej_.  
 Wersja: v1.0  

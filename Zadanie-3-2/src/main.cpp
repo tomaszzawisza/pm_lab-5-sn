@@ -38,13 +38,13 @@ void dispMenu(void){
 void changeMenu(void){
   if(digitalRead(buttonUp) == HIGH) {
     menu=menu+1;
-    if(menu>1){
+    if(menu>3){
       menu=1;
     }
   }
   if(digitalRead(buttonDown) == HIGH){
     menu=menu-1;
-    if(menu=1){
+    if(menu<1){
       menu=3;
     }
   }

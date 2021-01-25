@@ -13,4 +13,6 @@ Numer albumu: 72560
 Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
-...
+
+Zadanie 3-2-6: Zasada działania silnika polega na tym, że dla wzrostu temepratury silnik wentylatora ma większe obroty. Dzieje się tak ponieważ dla większej temperatury PWM wzrasta i co za tym idzie z tranzystora (tranzystor umożliwia regulacje obrotów, zmiana PWM zmienia parametry wyjściowe tranzystora) do silniczka wędruje sygnał o większej wartości (większa liczba obrotów).
+Ustalono wartość temperatury od której silniczek ma się załączać. Układ można udoskonalić poprzez dodane diody sygnalizującej załączenie silnika.

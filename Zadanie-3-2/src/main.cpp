@@ -1,8 +1,8 @@
 #include <Arduino.h>
 #include <LiquidCrystal.h>
 
-#define buttonUp 11
-#define buttonDown 13
+#define buttonUp 11 // przycisk +
+#define buttonDown 13 // przycisk -
 
 LiquidCrystal lcd(9, 8, 7, 6, 5, 4);
 int menu=1;

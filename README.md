@@ -8,9 +8,9 @@ Data: 10.06.2020 r.
 
 # Informacje o studencie
 
-Imię i nazwisko studenta: Imię Nazwisko  
-Numer albumu: 12345  
-Grupa studencka: WELEXXXXXX
+Imię i nazwisko studenta: Tomasz Zawisza 
+Numer albumu: 72560  
+Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
 ...
